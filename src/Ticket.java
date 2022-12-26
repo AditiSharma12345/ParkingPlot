@@ -6,5 +6,5 @@ public class Ticket {
     private LocalDateTime EntryTime;
     private LocalDateTime ExitTime;
     private double cost;
-    private String Status;
+   
 }
