@@ -3,7 +3,7 @@ import java.util.*;
 public class ParkingPlot {
     private String nameOfParkingLot;
     private List<ParkingFloor> parkingFloors;
-    private static ParkingPlot parkingLot=null;
+  
 
     private  ParkingPlot(String nameOfParkingLot,  List<ParkingFloor> parkingFloors) {
         this.nameOfParkingLot = nameOfParkingLot;
